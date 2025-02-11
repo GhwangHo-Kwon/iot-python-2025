@@ -8,7 +8,7 @@ from tkinter.font import *
 import google.generativeai as genai
 
 # 6. 제미나이API용 구성
-genai.configure(api_key='AIzaSyCU1gefHZzhGakfBT0dHE6iL0lZ_ymoh0o') # 신청한 API키
+genai.configure(api_key='내 API 입력') # 신청한 API키
 model = genai.GenerativeModel('gemini-1.5-flash')
 
 # 4. 전송버튼 이벤트, 제미나이 실행 포함

@@ -6,7 +6,7 @@ from tkinter.scrolledtext import *
 from tkinter.font import *
 import google.generativeai as genai
 
-genai.configure(api_key='AIzaSyCU1gefHZzhGakfBT0dHE6iL0lZ_ymoh0o')
+genai.configure(api_key='내 API 입력')
 model = genai.GenerativeModel('gemini-1.5-flash')
 
 class window(Tk):
