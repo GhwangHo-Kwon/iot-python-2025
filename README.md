@@ -170,7 +170,6 @@ https://github.com/user-attachments/assets/e52e8630-f332-4fc1-ac3b-c0a786864d8b
             - 안드로이드, iOS 모바일 앱 UI 사용가능
             - 모바일특화로 멀티플랫폼 지원
             - 가장 어렵다
-    
 
     - Tkinter 학습
         - 기본 템플릿
@@ -208,7 +207,6 @@ https://github.com/user-attachments/assets/887f15cd-ca0a-4096-bca0-d5949b5a80fa
             - 같이 실행되는 터미널을 제거하려면 
             - pyinstaller --onefile --noconsole 파이썬파일명
             - 아이콘등의 리소스를 dist 폴더에 복사
-
 
 ## 8일차
 - 파이썬 응용
