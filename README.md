@@ -197,11 +197,7 @@ https://github.com/user-attachments/assets/e52e8630-f332-4fc1-ac3b-c0a786864d8b
     - 실습
         - 제미나이 챗앱 -> **클래스형태**로 변경
 
-
-
 https://github.com/user-attachments/assets/887f15cd-ca0a-4096-bca0-d5949b5a80fa
-
-
 
 - 파이썬 응용
     - 실행파일 만들기
@@ -212,3 +208,12 @@ https://github.com/user-attachments/assets/887f15cd-ca0a-4096-bca0-d5949b5a80fa
             - 같이 실행되는 터미널을 제거하려면 
             - pyinstaller --onefile --noconsole 파이썬파일명
             - 아이콘등의 리소스를 dist 폴더에 복사
+
+
+## 8일차
+- 파이썬 응용
+    - GUI 중 PyGame
+        - 기본 윈도우 학습
+        - 이벤트 처리
+        - 간단한 게임
+        - 이미지, 사운드 등 리소스 활용 게임
